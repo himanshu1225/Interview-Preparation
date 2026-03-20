@@ -1,0 +1,9 @@
+Casting: 
+If you are putting small bucket into big bucket and small bucket is compatible to big bucket then there is no problem.
+
+Java treats numbers as int by default, and if another type is needed, it automatically promotes
+Integer numbers → int by default
+Decimal numbers → double by default
+Smaller types → promoted to int in expressions
+
+Rest see in Day4.java class
