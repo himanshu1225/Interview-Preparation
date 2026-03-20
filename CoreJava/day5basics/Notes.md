@@ -19,3 +19,19 @@ Rules on Final Class:
 1. We cannot extend final classes, if we want to restrict some classes to get extended.
 
 
+FINALLY: 
+    -> This block is used with try/catch. 
+    -> try/catch is used in exception handling and finally block always gets executed whether or not there will be an exception.
+
+Lets understand with simple divide example.
+
+FINALIZE: 
+    -> It is a method which is called at the time of Garbaje collection by JVM.
+    -> This belongs to Parent Class Object.
+    -> G.C is a process where JVM cleans up memory by deleting all unreferenced objects.
+    -> Unreference Objects: they do not have any reference variable pointing to them, just sitting in memory like Hi and Hello in below image.
+    -> Before performing this G.C Finalize method is called by JVM.
+    -> Since java9 this is depreciated and does not use much.
+
+ ![alt text](image1.png)
+
