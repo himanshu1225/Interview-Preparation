@@ -4,7 +4,7 @@ Intenal working of HashMap:
 -> It works with key, value pairs.
 
 Why HashMap is important ?
--> It can insert, search and delete all in O(1) Time complexity.    
+-> It can insert, search and delete element in O(1) Time complexity.    
 
 HashMap can be be of any type: 
 -> HashMap<String, Integer>
@@ -16,6 +16,8 @@ HashMap Internal Implementation:
 -> Intital capacity of array is 16 and with every element of array you can store linked list.
 
 ![alt text](image.png)
+
+HashMap uses the process Hashing.
 
 ![alt text](image-1.png)
 
