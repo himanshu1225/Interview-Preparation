@@ -12,7 +12,7 @@ public class Main {
 
         String s1 = new String("Hello");
         String s2 = new String("Hello");
-        // System.out.println(s1.equals(s2)); // true, String overrides equals  which check content
+        System.out.println(s1.equals(s2)); // true, String overrides equals  which check content
 
         // lets write the custom equals method in Employee class to check content instead of reference
         System.out.println(emp1.equals(emp2));

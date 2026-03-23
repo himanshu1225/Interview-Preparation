@@ -3,8 +3,8 @@ public class Day4 {
         byte byteValue = 10;
         short shortValue = byteValue;
         int a = shortValue;
-        long b = a;
-        float c = a;
+        // long b = a;
+        // float c = a;
         double d = a;
         System.out.println("value of d: "+ d);
 

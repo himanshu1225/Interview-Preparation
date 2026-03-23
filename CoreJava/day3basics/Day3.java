@@ -13,9 +13,9 @@ public class Day3 {
 
         // byte byteValue = 200; // This will cause a compilation error because 200 is out of byte range
 
-        long longValue = 1000000;
+        // long longValue = 1000000;
 
-        long longValue2 = 2147483648L; // This is within the range of long, but it is the more than maximum value for
+        // long longValue2 = 2147483648L; // This is within the range of long, but it is the more than maximum value for
                                        // int, so we need to add 'L' at the end to indicate that it is a long literal.
 
         System.out.println("----------------------Decimal Numbmers----------------------");
