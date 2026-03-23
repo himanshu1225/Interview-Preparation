@@ -10,5 +10,7 @@ Rules of Immutable classes:
 
 A mutable child class make the parent class also mutable. So make the class final so class can extend.
 
+
+Mutable field can make the class mutable.
 Last Point to return the copy instead of returning original one.
 2 cases one is getter and constructor.

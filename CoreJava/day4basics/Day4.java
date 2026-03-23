@@ -49,7 +49,7 @@ public class Day4 {
 
         byte op = 127;
         op++;
-        System.out.println(op);
+        System.out.println("Incerement operator: "+op);
 
         short s = 10;
        // s = s + 5; // This will cause a compilation error because the result of adding a short and an int is promoted to an int, and we cannot assign an int to a short without explicit casting.

@@ -4,7 +4,7 @@ public final class Player {
     private final String name;
     private final int age;
     private final String team;
-    private final PlayerRanking playerRanking;
+    private final PlayerRanking playerRanking; // mutable field
 
 
     public Player(String name, int age, String team, PlayerRanking playerRanking) {
