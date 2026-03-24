@@ -4,7 +4,7 @@ import java.util.function.Supplier;
 
 public class SupplierMain {
     public static void main(String[] args) {
-        Supplier<Integer> randomNumber = () -> (int) Math.random() * 100;
+        Supplier<Integer> randomNumber = () -> (int) (Math.random() * 100);
         System.out.println(randomNumber.get());
 
 

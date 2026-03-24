@@ -4,7 +4,7 @@ JAVA 8 FEATURES:
 
 Functional Interface:
 
-![alt text](image-1.png)
+![alt text](imagex-1.png)
 
 Functional Interface Conditions:
 

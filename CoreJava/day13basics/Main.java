@@ -13,7 +13,7 @@ public class Main {
 
         // Use Optional to handle the case when user is not found
         UserService userService = new UserService();
-        Optional<User> user = userService.getUserById(3);
+        Optional<User> user = userService.getUserById(8);
         
 
         if(user.isPresent()) {
