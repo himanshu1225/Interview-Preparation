@@ -1,7 +1,7 @@
 IOC AND DI:
 
 What is IOC: 
--> IOC or INVERSION OF CONTROL, means spring can objects in form of beans.
+-> IOC or INVERSION OF CONTROL, means spring can create objects in form of beans.
 -> There is no need to manually create object using new keyword.
 -> Spring boot will take care of creating beans we just need to tell the spring boot these are the classes you need to create beans using annotations.
 

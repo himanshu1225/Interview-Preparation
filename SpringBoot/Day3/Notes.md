@@ -27,7 +27,7 @@ Service is an alias for Component and there is no additional feature associated 
 It is created just for readability for service classes.
 
 Hume iss class ki sirf bean create krna hai me koi bhi annotation use kr sakta out of 4, even restcontroller error nahi aayega
-but rest controller nahi use krna hai because we are not deaking any api mapping.
+but rest controller nahi use krna hai because we are not dealing any api mapping.
 
 Repository vs Component:
 
